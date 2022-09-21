@@ -13,7 +13,7 @@ https://github.com/Abs62/goldendict/blob/master/.travis.yml
    ```
    ./build_Goldendict.sh
    ```
-6. Create the Goldendict AppImage:
+6. Set *QMAKE_PATH* to point to your *qmake* of Qt 5.12.2 and create the Goldendict AppImage:
    ```
    ./create_Goldendict_AppImage.sh
    ```
